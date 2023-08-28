@@ -1,7 +1,5 @@
 {
-  "name": "dcuba-admin",
-  "integrations": {
-    "capacitor": {}
-  },
+  "name": "dcuba",
+  "integrations": {},
   "type": "angular"
 }
